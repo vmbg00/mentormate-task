@@ -1,0 +1,26 @@
+[
+  {
+    "name": "John Smith",
+    "totalSales": 250,
+    "salesPeriod": 10,
+    "experienceMultiplier": 0.5
+  },
+  {
+    "name": "David Prowless",
+    "totalSales": 275,
+    "salesPeriod": 10,
+    "experienceMultiplier": 0.5
+  },
+  {
+    "name": "John Doe",
+    "totalSales": 350,
+    "salesPeriod": 5,
+    "experienceMultiplier": 0.5
+  },
+  {
+    "name": "Jessica Monroe",
+    "totalSales": 100,
+    "salesPeriod": 10,
+    "experienceMultiplier": 0.5
+  }
+]
